@@ -1,0 +1,528 @@
+Ridd (00:00.652)
+know, I don't know how much detail makes sense or how much you really want to share, like, do think maybe to start, like, can you just give listeners a little bit of a background about like your journey and kind of just even like, you know, what is design code and what are some of the things that you've been working on over the last years?
+
+Meng (00:20.548)
+Sure. So first of all, my name is Meng. I've been designing and coding for the past 20 or so years. And basically, I have this platform called Design Code, which I started about 10 years ago. And that was kind of born out of my journey as a designer who was in Montreal, didn't have sort of like the perfect startup to work at at the time.
+
+And then I'm, you know, I always dreamed going to San Francisco eventually with Dribble and all that stuff managed to get there. But I got kicked out of the U S because of visa issue. Now what happened was that, you know, I didn't go to school for what I did. I never went to school. I actually drop out right away to do my own thing. I did a community, for artists, which garnered like 50,000 users at the time.
+
+Pretty big at the back in the days of win amp and you know flash and all that stuff So I definitely went through the seasons, but you know in the u.s. This is kind of like where that whole idea of design code started because I was blogging and Not a lot of designers were teaching at least you know like I would say I could count with my hand the number of people who are teaching what they were doing
+
+And so I started with blocks. I think most designers and developers, they start with blocks. They notice a little bit of a spike in the traffic. And eventually, when you get enough people who enjoy your writing or your content, then you start thinking about something like a platform or a course. And then that's kind of like what design code was. So back in the day, there were not a lot of them. I remember there were a couple of developers that I followed.
+
+like nathan barry and the founder of sidebar they start beyond course i was really curious about that and eventually i decided okay let's do it the way that i did it was i started a website from that website you know you know it was not even there yet like the the book was not even finished but i wanted to see if people wanted to
+
+Meng (02:49.181)
+kind of like learn from that content. So I launched it with a pre-order and next thing you know, this is what started the platform. This is what started the whole design code. And that was during the time that I got kicked out of the US. I didn't know what to do with my life. And I decided I didn't want to go back to my past, which was Canada and Montreal.
+
+Not nothing against Montreal, of course, but, you know, we all had dreams, right? And all our dreams are connected to a location, to a place, to people. And I just didn't feel that was the place for me. So during those two years of travel, started design code, launched it, and it was really, really fast. And eventually that grew into workshops and
+
+more content yearly. And yeah, know, like this is when I first made my first million dollar as a, you know, as a solo entrepreneur, if you will. And that was really fun. And, you know, obviously the challenge that we have as creators and content creators is like, how do we balance between creating courses and creating products? Because
+
+You cannot create courses if you don't create products because nobody's going to trust you. Nobody's going to think, I have something to learn from this person. yeah, you know, like it's been 10 years I've been doing that. now it's, you know, like eventually after my travel, went back to Canada. And I know it kind of resonates with your story a little bit is that I settled there for seven years.
+
+you know obviously with the the first million that i made we bought a house for me for the family for you know we we all got together in one neighborhood that was really fun that's the took a bit more of a backseat adrin those years and now with a i and and especially now that i i've moved to singapore because singapore kind of represents me kind of getting out of a little bit of that comfort and and
+
+Meng (05:12.992)
+trying a new adventure because like I feel, okay, I'm tired of paying so much taxes. I'm tired of like, you know, having to go through so much, so many months of winters. I'm tired of like having to pay $2,000 to go to my favorite place, which is Japan. And so we decided, okay, let's try to move to Singapore. And you know, we have two kids. They're really, really happy here. It's always summer, it's always beautiful. Some people might think it's always too hot.
+
+But for me, it's perfect because if it's a little bit hotter, it would be way too hot. Like Thailand can be really, really hot, or Japan. Or if it's a little bit colder, we wouldn't be able to do really fun activities like swimming pool and going to the beach and stuff like that. So I think Singapore is kind of like a perfect place, especially for someone coming from the West. So from Canada, the US, I've gone through so many countries during my travel. think we did something somewhere like
+
+20 countries, Europe, Asia, America. And I think Singapore is just great. And what is fun in this phase right now is that we, I'm finally getting back into getting in the front seat. doing a dream cut, and this is all thanks to AI. So this is a really, really massive project.
+
+I will definitely talk more about DreamCut, but this is basically my backstory leading to DreamCut.
+
+Ridd (06:44.358)
+I have a smile on my face just listening to you talk because you were such a big part of my own journey. Like five years ago when I was deciding, yeah, like I want to make a course. I want to get into design education. Who do I look at for inspiration? And I was like studying everything that you're doing. And so to hear that story in the arc and get to know the person behind the brand a little bit is a special moment for me.
+
+Meng (07:08.149)
+Really honored to be here and to do this podcast with you.
+
+Ridd (07:13.909)
+So I want to take advantage of your perspective as someone who really understands both the design and the code side. And you've maintained that vantage point for quite some time now. And all of a sudden, AI is on the horizon. Everything's changing. We're all kind of looking forward into the future, wondering what if. And I want to get into some of that. But maybe even to start, you could even give a little bit of
+
+background and context as to what you see as today's landscape. So like how would you describe the state of AI as a design tool today?
+
+Meng (07:55.777)
+Okay, so I have a pretty hot take about AI. I think AI is still pretty much like a big hit or miss. And it is a big miss if you don't understand the idea of not giving up. Because like, it's very, very easy to do something bad with AI. It's very easy to do something like a design or a photo or an image or something, or even code.
+
+And, but if you get past that AI becomes really, really powerful and you have to kind of use the strengths of AI. And right now there are a few key areas in which AI does really, really well. The first one is writing, right? So everyone use AI for writing. I don't care who you are or, you know, like you could even be a writer and you will still use AI for writing. everyone does that. It's, it's wonderful.
+
+And especially wonderful because people know how to use AI. Now, how many people use AI for design? Maybe not that a lot. How many people use AI for coding? I think that's an increasing amount because AI for coding is extremely powerful because this is a medium, this is a platform that typically is very, very difficult to jump into, especially for designers.
+
+Ridd (09:00.83)
+many.
+
+Meng (09:22.933)
+What is really, really hot right now is using cursor with Claude and it didn't clicked. And this is extremely recent. I think it was like five months ago or even less, I think four months ago that people really started using Claude and Claude was for me, you know, a big moment because I didn't realize how coding could be so powerful. Of course we all knew, you know,
+
+GitHub co-file it, it's really good for auto-completions, but auto-completions doesn't create apps, right? I think Claude, what Claude did at that time was to convince us with artifacts that you can essentially build apps. You can build ideas and you can have something that you've always wanted to solve either as a prototype, as a design,
+
+and turn that into an artifact. And that was the first step into AI using from coding. And so when I realized that, I was experimenting with creating like, you know, okay, let's create something that looks like a Figma plugin. I think everyone start with that, right? Like, you know, you open Figma, you're like, okay, how can I improve Figma? There's a lot of stuff that Figma doesn't do in term of like,
+
+whether it's animations, whether it's using AI tools, whether it's just solving small problems like selecting layers or renaming layers and stuff like that. Well, you can essentially open Cloud and just prompt and ask Cloud, OK, can you make a small tool that solves exactly that problem? So that's what was my first kind of venture into AI as a tool builder.
+
+I did that with an SVG pattern and I thought, wow, this is really cool. can just like creating a bunch of, you know, like SVGs and patterns and put it together and create a background. And then eventually I got it to animate and that was like a small little tool. spent about three weeks on it and then I launched it with payments and all that stuff. and that's when I realized, okay, well, this is really powerful because you know, yes, you can create artifacts. And that was kind of like the first moment where
+
+Meng (11:49.518)
+as a creator, if you can build something really quickly, you know, like prototyping and you can get something functional and get it in hands people, that's the ultimate goal. But then, you know, it's going to hit a wall eventually, right? Because like, just like a design tool, regardless of the design tool, you will always hit a wall because the design tools are always
+
+limited by the boundaries of what you can do within that design tool, even the really powerful one like Figma. But then you have coding. Coding is where everyone needs right now to get to a real product. And so a lot of designers choose not to learn coding. That's fine. But for those who really want to stop
+
+kind of depending on developers, you know, can you move some pixels? Can you, you know, can you build this function for me? you know, I'm going to spend three weeks on this little prototype about a small subset of feature. Now, if you're tired of this and if you're kind of like you go to sleep and you're thinking, shit, how do I do this? Like, how do I get this to be exactly like what I have in my head?
+
+The only way to do that, unless of course you have like a superstar team, you live in San Francisco, you go to a startup where they spend like half a million on talents, most people around the world, don't have that luxury. And most people around the world, they have an idea, they want it to be done, they need to do it themselves or they need to sort of like wait a really long time to get it done.
+
+And there's just a lot of meetings in between, a lot of like communications that have to happen. So what AI enables us to do now, especially with taking that sort of like artifact from Claude, taking it to the next level, is that now you can essentially learn step by step using AI, ask the right questions, not giving up, and then take that artifact
+
+Meng (14:08.061)
+feature by feature, line by line, learning incrementally how to read and scan the code, how to customize the UI, and then finally build something as complex as DreamCut. And I think that's kind of like what's really, really exciting about AI.
+
+Ridd (14:29.332)
+Okay, so I have a million questions about the journey to build something as complex as Dreamcut. And maybe before we start to get into it, can you just give us like a little bit of context? Like why was this the product that you were excited to invest in and figure out how to make it?
+
+Meng (14:45.484)
+Absolutely. So when you build a product with AI, it's really important to not forget your dreams. Like what do you want to do? Like what do you want to solve? I think a lot of people, especially right now, I open Twitter and I see a lot of people, how to build this app to do app in five minutes. Who cares? Right? Like, yes, it's fun. Yes, you might learn code along the way, but that's great. However,
+
+What is even more meaningful is if you can build something that actually solves a problem, a market fit in this industry and not just any market fit, your market fit, who you are and what do you use on a daily basis. If you can do that, then I think AI can be really powerful and I think you can really stand out from a market that will soon be saturated.
+
+by so many of these five-minute apps. So DreamCut is kind of like that second phase of my journey. The first one was creating a small app with SVG. It could be like a Figma plugin or its own web app. The second phase was, OK, so right now I have to think about what do I use on a daily basis. So one tool that I use a lot.
+
+is Screen Studio. I think a lot of designers are using that nowadays to record your screen. And you want to showcase what you're building, what you're designing, what you're animating. And it's a really, really good tool. I love that tool. But really quickly, especially as a designer who teach, you realize the limitations of Screen Studio. Because it's not made to be a long.
+
+Ridd (16:14.654)
+Big fan.
+
+Meng (16:38.402)
+video. It's not made to have multiple clips. It's not made to use AI tools. So I thought, OK, I'm using Screen Studio. I'm using CapCut to put all of these Screen Studio segments together. And it takes a long time, by the way. Especially if I would have like 20 documents of Screen Studio for like 10 minutes of video. And I was like, OK, I need to export 20 times.
+
+I need to find the files, I need to bring them together and drag and drop to CapCut. I need to put it all together. And then I have to go through the motion again of putting and editing and all that stuff. And that's just two tools. Now the third one is like nothing is online. So everything is on my hard drive. I want to collaborate with people, I cannot do that. And oftentimes, know, like, especially with CapCut, I don't know if you've gone through that problem, but like,
+
+Sometimes if you move the file, just completely destroys the integrity of the file itself. So it's kind of like a big problem. And then I also use ChatGPT to do the ideation, ask questions, scripting, and all that stuff. We also use 11 Labs to do the AI voice. The reason why we use AI voice, and I know there's a bit of controversy with using AI stuff.
+
+keeping in mind that we have a very good reason to use AI voices. One is that not everyone is fluent with English, right? Like a lot of people in the kind of English culture think that, you know, everyone just should use English and are really fluent and it shouldn't be a problem. That's not the case with most of the world. You know, I'm from Montreal and believe it or not, is a bilingual, you know, state and
+
+Our first language was French. so a lot of people from Montreal, they haven't mastered English and they have really a thick accent and they find they still looking for their words. And so we have a lot of our team from Montreal. So they, you know, they struggle with it. And so we decided to go with AI because it's a lot more clear. It's a lot more, you know, like it's harder.
+
+Meng (19:03.629)
+It's a lot easier to kind of like get the ideas across and steps and all that stuff. So we use 11 Labs, which is the most natural sounding AI platform for creating and generating voices. And it's getting better and better over time. I'm sure eventually it's going to sound like a real human. And you know,
+
+Again, AI is the idea of the future in the sense that you can't use AI with just thinking, okay, this is what we have now. It's always going to be this way. You have to use AI in a way to think that in five years is going to be amazing. In five years, it's going to solve so much of the stuff that we're going through right now, including translations. You go to Japan, you're not going to be able to speak Japanese, but AI eventually will allow you to just speak live in real time.
+
+with someone speaking Japanese in front of you. And I think that's going to be amazing. So we use 11 Labs. We also use, I don't remember the O2, you know, we use Dropbox. again, cloud syncing and all that stuff. So the idea was that I have all of these tools and I really want to make a tool that does all of that stuff in one single product. And so that's kind of like, I know it sounds really ambitious.
+
+And it is, but you never go into a product thinking that, it's too ambitious, it's too difficult to do, right? And you always go into a product by being very optimistic and you go into a product by solving problems one by one. You know, when I first started, it was like, okay, ScreenStudio, really good tool, but how do I have multiple clips?
+
+Ridd (20:25.122)
+He does.
+
+Meng (20:54.041)
+Right? So you start with that. Or CapCut. Really cool tool. But how do I record a screen? You know, spoiler alert, you cannot unless you use their web tool, which is very different from their desktop tool, which is very different from their mobile tool. And they don't have zooming. Right? Like, yeah, you know, like we the way that I approached DreamCut was like, OK, I want to have all of these things.
+
+Ridd (21:05.122)
+Yeah.
+
+Meng (21:22.565)
+But I'm not going to try to do all of that stuff until I get there. I want to start with a small, simple problem, which is a screen recording, multiple clips, and having sort of like a working web editor. When I did the SVG pattern tool, I kind of got some of that experience that really allowed me to leap into something a bit more complex, which was kind of like
+
+how do I create somewhat a design tool? And that was really important for me to kind of do the paradigm shift, the sort of like the big jump into creating something more complex. But yeah, you know, it starts as a workflow problem.
+
+Ridd (22:11.671)
+drill into those like early first steps, initial explorations, because something that I saw is you said that you just skipped Figma altogether. So can you talk a little bit about why, and then also like how did that impact your ability to shape and figure out what the product can even be in the early days?
+
+Meng (22:31.355)
+Sure. So I'm sure you can relate to this, lot of designers. You design something, and then you realize after a few days, a few hours, a few weeks, that's impossible to do. And that is a huge time waster. As someone who designs code, as someone who designs and also who code full time,
+
+So I've been on both ends of the spectrum. I've done a full-time job in coding. I've done a full-time job in designs. I've done full-time job in CSS. The last thing you want to happen during the creation process of a product is to waste really valuable time and also just making really wrong assumptions.
+
+So that's what the first part, I don't want to make the wrong assumptions. And especially because you're building a complex product, you're building something that is extremely experimental. You're doing AI stuff, right? AI is by nature very experimental. You don't know if it's able to do all of these things that you want. So for example, you don't even know if you can do it yourself, right? Like I went into the video editor, I'm like,
+
+Do what can I even create a very video editor? So what is the point of designing in Figma if I don't even know if that's even possible. So that's exactly why I skipped Figma. Now that's the first part. The second part is Claude is really good at designing. AI is really good at designing. Not, not in the sense of what most designers think. Most designers think design is all about
+
+beautiful pixels and styles and auto layout and stuff. That's not what design is all about. In fact, design is about function, right? It's about problem solving. And if you think about design that way, Claude is really, really good at that. So you can say, OK, build a simple video player. It's going to do that video player for you. It's going to design the basic foundation of it.
+
+Meng (24:48.729)
+And, you know, it might not have the perfect, you know, glass buttons with like, you know, animations and stuff like that. But that's where you come in as a designer, right? Like if you think that design is aesthetics, then please be that person to correct AI. But design as a foundation, as a problem solving tool, as a function, AI is capable of doing that very, very well.
+
+And that's exactly why you can absolutely skip Figma because, you know, let's say I want to build a timeline. Okay. Create a timeline. I want to have multiple clips. You know, I want to be able to drag and drop all that stuff. AI can do that. It's not going to look perfect. It might even make mistakes, but at the very least you can continue. You can continue that conversation going. And you have to think of AI more like a technical co-founder, more like a
+
+some like a a collaborator like maybe a somewhat like a developer who sits next to you. If you think of AI that way, then you can continue that conversation. It's not like a one time prompt. It's like most people think, you know, let's create the perfect prom. It's going to have like, you know, 500 characters and I'm going to describe everything and and AI is just going to create the perfect tool for me that has
+
+been so far from my experience. My experience is like, I like very simple prompts. My best prompts are probably like two or three sentences. And then I'm like, I'm curious. I'm really, really curious to see what AI is going to create. Like sometimes I just want to hit that enter button. I want to see what this technical co-founder is going to create for me.
+
+And so that I can sort of like continue that conversation. I'm like, okay, the button is wrong. Okay, so, you know, I actually want it this way instead. And that's kind of like how I use AI and how I design with AI and how I skip a Figma along the way. I think if you think of design as more like, you know, letting someone building the foundation and kind of like confirming what is possible and what is not possible.
+
+Meng (27:11.857)
+and you kind of like moving the pixels, eventually you're styling. You know, like I think a lot of designers can relate to that. You know, they would say, okay, can you build me that? You can ask the developer, can you build this? And then the developer comes back and they're like, this is what I have so far. And then you're like, let me get into the code and fix the styles. You know, like it's a collaboration and it's fun. You know, if you're a designer, I suggest
+
+Ridd (27:36.33)
+Totally. Totally.
+
+Meng (27:42.051)
+Even if you're not into AI, I suggest that you talk to developer and you like try to build that relationship with them or with her and, you know, and sort of like go back and forth, but not just, you know, try to code as well. And if you don't code, then use AI, right? Like, because AI can do the coding for you. And so it's a really, really cool relationship to have with someone who's more technical.
+
+And yeah, know, like if you do that, then I think the design, but not just the design, but the product can really benefit from that workflow.
+
+Ridd (28:27.018)
+Can we look at just like those first 10 or so prompts? Like I think a lot of designers like this sounds really cool. They open up cloud artifacts and it's unclear like what level of specificity do you even start at? Like do you say build me a video editing product or do you say build me a sidebar with this functionality and then a timeline down here? Like how did you think about going from
+
+zero to one with those first 10 or so prompts. And do you have any advice for people who truly are staring at the blank canvas have never done this before and they're trying to figure out what to put in that text box.
+
+Meng (29:03.235)
+Okay, so this is a really important question and I think, you know, I do want to demystify because like, again, there's a lot of like stuff that is going on Twitter right now saying, you know, do this one prom, it's going to create the perfect product, do this product in five minutes. And the thing, it's not that it's bad, it's not that it's not true, it's that
+
+you don't have to overthink about AI this way, right? Like you don't have to think that there's like a certain amount of skills that you need to have or a certain amount of, you know, prompting skill that you need to have or a certain like a certain order of like sentences that you have to write. That's not the case. I think if you're someone who can really describe
+
+what you want in words, you can do really well with building products using AI. Now, I'm not going to sugarcoat it. I know a lot of designers who have a hard time communicating in their ideas. And this could be a good playground for those people. The idea is that if you want to create a product, the first thing that you need
+
+is to know the product that you want to build. You know it from a high level perspective and also from a macro perspective. So for example, you want to build a nodes app, right? For Mac. And then you're like, okay, try to be as specific as possible. Nodes app for Mac framework, right? If you
+
+Like these are all three keywords that you can inject into AI and it's going to help so much with building a product. So AI and building is all about the specificity, the context, and sort of like getting to know what you want and what features that you want. Because it's like, I definitely don't recommend saying
+
+Meng (31:27.592)
+I want to build a video editor. It's too vague. It's too broad. It's like saying, I want to build a car. I want to build an electric car. It's not going to get you anywhere because there's so much going on inside a car. And I really like what Elon Musk says when he, he built product. He's like, and, and, and especially when he learns, he said, go back to the first principles. And I think that's such a powerful idea, right? Like if you want to build a battery,
+
+You shouldn't say, I want to build a battery that is more efficient. You should just say, you just go to the first principle and kind of look at the ingredients of the battery, you know, like, know, lithium and all that stuff. And if you do that with building a video editor, you should never, you should not say, I want to build a video editor. I want to build a flying car. You should more like say, you know, okay, what is the composition of video editor? Okay. So we have the timeline.
+
+We have the video player. We have some of the features like drag and drop. We have screen recording, maybe. We want to be able to have an inspector so that we can edit. So again, those are really good keywords to have. And the next question is, where do you want to start? And don't start too ambitious. You shouldn't say, I want to have
+
+you know, all of these things and it has to work perfectly. You have also to have to expect that depending on the complexity of what you're asking, it's definitely not going to get there on the first go. And so the way I would do it is like, and you know, like, can you build a video player or you can, can you build a video editor? Don't stop there with a video player.
+
+that has a play and stop button. And then with that, I want to have a timeline where I can have a clip. And then you have to sort of like think about, what is that clip? You know, where is that file coming from? What is that clip, right? Where is it coming from? And then you can specify, okay, I want the URL to be from a YouTube video. Or you can say, I want to be able to upload that video, right? So that would be the first prompt.
+
+Ridd (33:38.928)
+Yeah, what is the clip?
+
+Meng (33:55.522)
+I want to build a video editor with a timeline, with a video player, and I want to be able to upload the video and so try to make it work. And then from there, you have a pretty good foundation of where to start and then you're going to see what AI gives you and from there, you kind of fix. It's a lot about correction. It's a lot about, OK, so actually,
+
+I don't want a URL URL to be entering or, you sometimes it just gives you bugs, you know, I, I cannot upload the video. It doesn't work. Or sometimes it's like. Works perfectly. That's amazing. Then you go to the next step. You're like, okay, so now I want to have multiple videos. Now I want to be able to drag and drop the timeline. now I want to have an audio timeline. I want to have a text timeline and then.
+
+I want to have a sort of like, I want to frame my video, right? I want to frame it in the middle. I want to have a background. I want to have a gradient. I want to have colors. I want to be able to customize the colors. I want to be able to have a video background that plays. I want to be able to zoom. So those are kind of like the first, you know, 10 prompts.
+
+Ridd (35:16.358)
+really like the idea of deconstructing the battery and thinking about the individual components versus just having these more generic blanket versus having these just like higher level descriptions basically. And I'm kind of wondering now like how far did you go before you started intentionally worrying about the aesthetic of the product? And then what does it take to effectively push past that more
+
+generic output that Claude's going to give you by default.
+
+Meng (35:49.486)
+So I'm going to tell you secret that most designers do. All they need to do, at least at the stage at which they want to start thinking about aesthetics, that stage is exactly the same time where, when they want to tweet. That's the secret. The secret is to hold yourself accountable and to ship something that you are proud of. I don't think about aesthetics until I get to that stage. And sometimes it can take
+
+Ridd (36:07.942)
+You
+
+Ridd (36:18.502)
+That's awesome.
+
+Meng (36:19.81)
+an hour, sometimes it can take a day, sometimes it can take even a week. But typically, you know, and what is sad though, on the flip side is that a lot of people don't think about aesthetics at all. And they don't think that aesthetics has any impact. And to those people, I would say look at Apple, right? One of the most valuable companies in the world. And everyone copies Apple. Even the ones, the companies that are
+
+perhaps more successful than Apple, they still copy Apple. So that Apple has so much influence and that's because every time they ship, they have so much focus on aesthetics. And the way I think about it is that aesthetics is not that time consuming. You just need to know how to do it and sort of like how to be dangerous at it. There are many ways to be dangerous about aesthetics. One way is to use the right tool. So for example,
+
+You can use something like a really cool tool like Screen Studio. It gives you really good aesthetics. Code is very aesthetically pleasing. So you present code. People tend to see that as really something that is pleasing to look at. You can present Figma. It's a good tool to present. Or you can present your design, of course. Your design has to have some aesthetics. And if your design sucks and it doesn't have that aesthetics or that satisfaction that you have from looking at it,
+
+then you use a UI kit such as Shadzian or any UI kit out there from Figma. But don't underestimate aesthetics, right? Aesthetics has a function. It has a function in the way that it creates business. People like beautiful things, right? Like our whole society is around, you know, aesthetically pleasing environments. You wouldn't...
+
+buy an apartment that looks like terrible, right? You wouldn't go to the streets and you don't care about the plans, you don't care about how well it's constructed. No, aesthetic has a function. It makes you feel good. It makes you feel this is new, this is different, this is unique, this stands out. And so if you think about that aspect, then you can make something really, really powerful.
+
+Meng (38:39.599)
+And you can turn something that clots create that looks super generic. Maybe it's functionally amazing, but it's so much more powerful and you can sort of like 2X, 3X, 5X the impact of that product by just adding that 20%, 10 % of work at the end by using the right tool, the right kit, the right approach, the right prompts, right? And
+
+You know, sometimes it's about learning Tailwind, for example. Just learning Tailwind can give you a huge leg up in terms of understanding aesthetics. You know, like, I want to understand the colors, you know, the color spectrum of Tailwind. how, because AI tends to use Tailwind. Why is it used Tailwind? It's because it's the most all in one file way of creating an artifact.
+
+You don't need to have a CSS file on top of it. And it's not as technical as having inline JavaScript. So Tailwind is the perfect tool for that. so learn Tailwind, right? Because then you can sort of like say, you can also browse Google and you're like, OK, give me some UI kit using Tailwind. Let me copy the code.
+
+paste that code into Cloud AI and say, I want the style to look exactly like this. And so by doing that, again, that 5, 10 % of effort to extriple the output impact of your product. And so as soon as you're ready to enter that stage of thinking about aesthetics, then you're ready to put your name, to sign. You're kind of putting your signature at the bottom.
+
+you know, putting your final touch on it and you can proudly present to someone. And, you know, right now is Twitter back then it was a lot about Dribbble for designers. Think of also as a coder, you might want to post on GitHub, but before posting on GitHub, you have to clean up your code, right? You can't just, you can't just like post the spaghetti code. So aesthetics is exactly the same thing, you know, like,
+
+Ridd (40:55.744)
+Mm-hmm, mm-hmm.
+
+Meng (41:04.735)
+You can't just post something that is so generic, so basic. You have to add those extra styles that put that extra effort to look for the right tool, the right UI kit, and the right styles, and learn how to do that last 5%. Especially, even if you Google and you paste the code from the UI kit, it's still going to make mistakes. Sometimes it's going to use the wrong colors. Sometimes it's going to use the wrong adaptiveness.
+
+You get into the code, you incrementally learn about the code and tell when, and then you change. that's how you get into the super high details. And people are going to really respect you for that. think of it this way. You're not going to respect someone if you can exactly do what they do. You respect someone when they do something that you hadn't thought about.
+
+they also put that extra 20 % that took 80 % of their time. That's why you're going to like that tweet. That's why you're to reshare that tweet. That's why you're going to, you know, have, you're going to be more inclined to buy that product.
+
+Ridd (42:20.269)
+Can we go a little bit deeper into that like final 5 % of visual detail? Because like even like on the website with some of these cards, mean, like really, really beautiful hover states, have gradient borders, like some like subtle inner shadows, there's a lot of visual detail that's going into that. How much of that is being fine tuned with natural language versus maybe you're getting in there and riding the tailwind? How cumbersome is it to even deal with something like Claude when you're trying to write
+
+code that is like super, super, super visual.
+
+Meng (42:53.941)
+Okay, so again, going back to the first principles, I think it's really important. So the way that I think about code and the same way I think about Figma is I love to create components. I don't love to create component in a sense that just for to make my team happy. I don't care about that, right? They will be happy if the product is good. What I care about is the first principles idea. The idea that I can reuse
+
+something that I have created in my past. It's like creating a UI kit. Sure, you can sell it. Sure, you know, it's going to make the stakeholders or the team happy, but that is not the main reason why I create UI kit. The main reason why I create UI kits is because I want to sort of like go through that experience and sort of like memorize that in a way that I can reuse it in the future. So
+
+When you talk about the cards and when you talk about the lights, when you talk about the outline gradient, that's because I have done that in the past. And all I needed to do was to take that component code that I did in the past and give it to Claude and say, I want that applied to this component. If you can do that, then your experience become richer and richer over time. All the things that you have learned in the past are not going to waste.
+
+all the code that you have created and the product that you're making, even if your product ends up in a failure, you have gained hundreds, thousands of components and techniques that you can reuse for your next product. And so if you think about it this way, it's the same for building a product with AI. You cannot think of it as sort of like, I'm going to start everything from scratch. Yes, of course it is from scratch.
+
+but the breadth of your experience and the plethora of components and techniques that you have learned over the past. So for example, the grading that I did, that was part of the course that I did an experimentation that I did before using GPT-4 in the past. I just went back to that tutorial that I did, copy some of the code and I'm like, okay, turn this code into react component, make it reusable.
+
+Meng (45:16.548)
+And then in one line of code, I want you to apply this to this component. And in the end, it was just replacing a div and put that into a component instead. So right now, if you use React, oftentimes if you start from scratch, it's going to be a div. But eventually, you're going to create hooks. You're going to create components. So that's going to turn into a component. You're going to pass props, so properties and customizations.
+
+And highly recommended because, yes, it's nice to have an artifact. The artifact is going to just cram all the code together. And it's just going to look like a huge spaghetti of code. Eventually, you're to have to say, look, turn this animation into a component. Turn this function into a hook. Turn this style into a reusable style.
+
+That's what you end up doing. if you do that, then it's pretty easy to apply a lot of the stuff that you have done in the past. you know, the cards, the animations. So, and the other thing is that even if doesn't exist in the past that you haven't done in the past, you do it sometimes by mistakes, sometimes by happy accidents. Sometimes you, you know, Claude just have a good day, you know, have a good prompt. And then you...
+
+Ridd (46:41.281)
+You
+
+Meng (46:47.548)
+encapsulated into something that you can reuse in the future. And so for example, all the animation that you see, the sequence animation that you see in the whole landing page, it's just one line of code that I keep reusing all the time. And that one line is just an animation that I, a CSS style that I added on top of Tailwind. And it's basically like a key frame, blur up, blur down.
+
+And then I just figured out a way to just have a single line of code that I add to a div. And it's in an inline CSS, which is fine. But I love to be able to just copy that one line and just apply it and just customize the index value or the delay value. And so that's how you can get those, you know, like word by word sequence animation that blurs.
+
+You know, Apple does that a lot nowadays. But not just Word, but you can also do character by character. So the logo animation, I did that exactly. if you have that context, back to the code prompting, if you have that context, that piece of code that you include in the prompt, the description on how you use it and the way you use it, and you give that to Claude, it's going to do it.
+
+Ridd (47:48.608)
+Totally.
+
+Meng (48:14.715)
+It's going to adapt everything for you and it's really really cool.
+
+Ridd (48:21.29)
+So I think there's probably someone listening right now who's very AI curious that doesn't have the coding background and you know, they were following along and they were feeling pretty good about themselves. And then you started dropping things like props and hooks and when to pull abstract something out into a component. And it started to a little bit scarier. So maybe my question is, you know, as someone who has spent a lot of time teaching designers how to code and vice versa, how far
+
+has AI pushed the barrier to entry? what is the essentially the bare minimum understanding of code that someone has to have in order to build a product even remotely close to something like Dreamcut? Because I would assume that, you know, if you don't know anything, you're probably going to have a little bit of a difficult time. Where is that new line, that new technical threshold for designers?
+
+Meng (49:21.033)
+So here's the deal.
+
+You know, going back to what I was saying earlier, do not think that you're going to get everything right on the first go. And also, you should always think of code the same way you think about design. And believe it or not, there's a reason why code is so powerful. It's because, you know,
+
+It's not necessarily more difficult than design. In fact, a lot of the things that you do in Figma right now is actually more complex than what you would do in code. It's actually easier to code than to design for a lot of things. Now, the only problem, and that's the of like the bad PR that code has, is that it can get really, really, really far.
+
+And you can, and that's normal. It's like building a flying car, right? Like, you know, it's not just a car, it's a car that flies. So it gets really far. But if you go back to first principle, it has the same components. So code as a product, like DreamCut, if you go to the first principle, it has the same components. You know, a hook is basically maybe like a plugin or not even a plugin. I would say more like using a plugin.
+
+or using a prompt inside ChatGPT. If you think about components, the same thing as in Figma. You're creating components in Figma. If you think about adaptive layout in CSS, it's the same in Figma. So design tools have become so sophisticated nowadays that it's not, I don't even think that it's easier to do the same things in Figma. In fact,
+
+Meng (51:20.321)
+to create something functional, it's actually harder to create in Figma than it is to create in Cloud. So yes, it can get technical, but don't give up, first of all. The same way that I started with DreamCut, I didn't start with DreamCut directly. I started with the SVG tool. And even before that, you can probably just create like a simple portfolio.
+
+Or you can just learn components in Figma. You can just learn prototyping in Figma. You have to think of small jumps. You have to think about using segues into something more complex. most importantly, this is the most important part. It has to shake your core. It has to shake your core to a point where you're not going to give up when you're going to get there. So for example, you've
+
+You create a prototype in Figma and you're to be like, I wish to my core that I can make this form functional. And I wish I can just submit it to a real database. I wish that this input can expand when I click on it. You know, like when you get to that phase where you have a problem in front of you that you cannot solve by something that is not code.
+
+then that's the perfect segue to learn code. And use that feeling, use that emotion to create your first artifact in Cloud. If you do that, then I think code is not that scary. Because yeah, you should never compare yourself to someone or to a product that is finished. You have to keep in mind that a lot of these products take years to complete.
+
+Ridd (52:52.903)
+I it.
+
+Meng (53:17.356)
+In my case, took me three months to get there. And if you think about the results in those three months, you're not going to get there in one go, in one prompt. But if you think about a simple player or a simple drag to change the shape, that's very easy to do in a cloud artifact.
+
+Ridd (53:45.021)
+It reminds me of something that Mariana Castillo said a few episodes ago. And she talked about like how the first couple of times she failed learning how to code was because she was learning for the sake of learning. But it was only the third time where she's like, you know what? I'm actually just going to build a thing that I care about and solve some kind of like a problem. And that was what got her to the point where she would keep going and push through. And then just at every stage, take the accumulation of all the knowledge that she had and just solve the next problem. And it's like really interesting to see that.
+
+parallel where yeah, when you're diving into some of the meatier parts of this product, it would have been very easy to just kind of hit pause on that set of tutorial videos. But when you're building something you care about, it's totally different.
+
+Meng (54:28.047)
+Absolutely. And I think, you know, I love to build stuff that I can release. And that's the other part, right? Like you have to hold yourself accountable. You know, like it's like deadlines, know, deadlines doesn't have like if you build a product without deadlines, you know, there's going to be a lot of people who's going to take forever to do something. But as soon as you set a deadline, you know, suddenly you have the motivation to do it. And the same with
+
+building in public, right? Like if you build in product, a product in public, you hold yourself accountable and you're not going to release something that you're not proud of, that you don't think that is surprising or fun or cool or, you know, or something that is new. So if you build in public, I think that's also going to be another element that's going to help you learn code. And, you know, don't be shy.
+
+be shameless, not in a tactless way, but be shameless in a powerful way, in a way that if you fail, it's fine because you're building the skills, you're building the knowledge, and you're also connecting with people who are failing like you. Not failing in a bad way, failing in a sense that you're experimenting and it might not get to from point A to...
+
+point Z, but it might get you to point B, point C. And that's totally fine. People connect with that. People love that story. And so that's the power of building in public. In fact, I would say 100 % of my product would fail without me building in public. yes, do it. Just share it. Just share your findings. And if you find that something is cool,
+
+most likely other people would find it cool as well. And also another aspect that I haven't really touched is taste. Taste is what makes things so pleasing to use, so aesthetically engrossing for people to get into that story. just feel that taste. If you're a snob, it's a compliment, without obviously the attitude.
+
+Meng (56:51.935)
+If you're a snob, a coffee snob or a coat snob or a design snob, that's a compliment as long as you take it the right way and as long as people take it the right way. At the end of the day, you're building that taste. You've used hundreds of products, thousands of products. You know exactly what you want. You know what app works, what app doesn't work. You know what features are frustrating to use, what features are perfectly solved.
+
+and what features really need a market fit, a new product in that space. And that can only be built over time. And for someone who really cares about those things, for someone who proactively download these apps and go after these apps and go on Twitter and read all of these tweets and follow all of these people, know, build that taste, build that sort of like ability to judge really quickly.
+
+someone's personality, someone's ability, someone's, you know, idea and your own ideas, but not just your own ideas, but the prompts and the resolve from the prompts and, you know, all the stuff that AI creates in front of you and that's going to be needed in the future. Someone who can curate everything that's going on, all the noise that's happening in the world of AI especially.
+
+If you're someone who can sort of like make sense of all of these madness, then you will do really well in this age.
+
+Ridd (58:33.787)
+think a lot of the, a lot of times when designers even imagine building something substantial with AI, it's just intimidation and getting yourself psyched up to like, you know, tackle it and dive in all the way. But on the flip side, were there elements of this project that maybe were easier than you thought or were like surprisingly more straightforward when having AI as a collaborator?
+
+Meng (59:02.483)
+All right, so there's a lot of things that are obviously easier when you start doing it. Just give you an example. Yesterday, I started working on a camera recording because I launched DreamCut without being able to record the camera. And honestly, before starting the camera, I thought this is going to be a really big feature. That's why I kind of hold it off. But then I started doing it, and I started
+
+prompting and I'm gonna walk you through the prompt.
+
+This is where it first starts. You have to look at the origin of the experience. Where does the experience start? So for the camera feature, recording your camera, here, it starts with the screen recording modal. It's a modal where you of enable the camera, the microphone, and the window that you want to record. And that's exactly where I started. I opened that file.
+
+I'm in cursor, like, okay, so I want to be able to record the camera.
+
+That's it, right? You know, like, because I have so much context in the file already, I didn't need to say so much more. Yeah, I didn't need to say so much more because it already has all the context in my file. And that's the beauty of already starting something previously is that if you already have the, the window recording, the microphone recording,
+
+Ridd (01:00:16.698)
+You
+
+Ridd (01:00:22.81)
+Some prompts are simple.
+
+Meng (01:00:44.694)
+AI has a pretty good idea already of how to tackle this problem. And so I was like typing, I want to be able to, you know, to record my face, you know, using a camera in a browser and all that stuff. And I was like trying to think, okay, what else do I need to say? And I tap enter. Boom, you know, like that's it. works. You know, like, yeah, it just worked. It knew exactly what to do. It knew all the context.
+
+Ridd (01:01:07.161)
+It just worked.
+
+Meng (01:01:13.644)
+And next thing you know, was just like, obviously there was a permission thing. I think there was just a little follow up prompt, make sure to ask for permission to allow for the camera to work. And then I did that and then boom, I saw the camera and it was like really straightforward. And from there, from the modal, I had to think about how it affects the rest. So I was like, okay, so the modal,
+
+does the recording. And once the recording completes, it has to save the file in the cloud, first of all. Second of all, it has to save it into a state. And the state has to translate into the canvas. So the canvas is sort of like the player. And so then you kind of open all of these files and you feed that into AI in cursor, because you can
+
+So in cursor, what's happening is that you can include the file. Typically is a file that you already have open. That's how I started. And then you kind of need to know how to navigate your code base. you're like, okay, because AI doesn't know that AI doesn't know. Obviously you can do at code base. It's going to do its best to kind of like include the files that are connected to the screen recording and the camera recording. But if you
+
+especially if you're solo and especially if you sort of like, obviously after three months I've developed that. Don't be scared if you just started, your project is gonna be maybe 200 lines of code. So in my case, I'm already at 50,000 lines of code. So it's a different stage. And I like to think of live as seasons as sort of like an evolution, an increment of things that you have started, right? Like you start.
+
+as a baby and taller and etc. You're not going to master walking at the beginning, right? So the same way with your project. When I first started, so I learned all of these things, start with 100 lines of code and eventually grows into a monster, which is today. anyways, yes, it started with a modal and then you went, you go back to the master file, which is kind of like the main file that connects all the files together. And this is where you're saying, okay, so I want to store that into a state. I want to allow that.
+
+Meng (01:03:40.111)
+upload that to the cloud. I want to connect that to the canvas so I can show the camera. And then finally, I want to save the file in the cloud with all the states and synchronize everything. And then the last part was to export with all of those new changes. And there was also another part, which is the inspector. So I also had to add the option to customize the camera, such as making it rounded, positioning it.
+
+setting the padding and the corner radius and all that stuff. And so that's how I went about that feature and it was surprisingly easy. I did that in like half a day, which is crazy. You know, like, yeah.
+
+Ridd (01:04:18.744)
+It's amazing. Yeah, that's mind blowing. It's interesting to hear you talk to because like just the way that you're breaking down the flow into like these very concrete steps, like at an atomic level, what needs to happen at each step in order to make this work. That way of thinking definitely exists outside of code. think designers can think like that even when they're in Figma. Like that is the best representation of what it looks like to actually think like an engineer.
+
+while designing that I think anyone's actually had on this show before.
+
+Meng (01:04:52.609)
+I absolutely agree. You're a designer. You shouldn't think that you're so different from engineers. The only difference between a designer and the engineer is just the tool. It's just because one is more specialized in one tool and the other one is more specialized in another tool. In fact, a lot of the best engineers that I follow on Twitter are amazing designers. They can create beautiful apps, even more beautiful apps than I can create.
+
+And you know, think about Shatsyana, for example. I think it's just one person, right? know, correct me if I'm wrong, it's just one person, one account, and it's just, you know, and it's one person who does really design and code really, really well. And yeah, these are the kinds of people that I follow on Twitter. And designers are not very different from engineers. It's just that instead of coding designers, they create the components in Figma.
+
+Ridd (01:05:29.462)
+think so.
+
+Meng (01:05:50.326)
+And instead of always focusing on statics, developers, they also think about the back end and the data. Sometimes designers don't think about those, but I do argue that the best designers that I know think about data. They think about experience. They think about what is feasible, what is not feasible. They think about constraints. They think about adaptiveness. They think about layouts and how that translates to code. And it's an evolution, right? You don't start.
+
+you know, at step 100, but you definitely start at level one and then eventually you learn about auto layout and eventually you learn about, you know, design systems and, you know, exporting to code and you learn about constraints, you learn about, you know, browser compatibilities, right? You learn about, I can do this with a mobile phone. I cannot do this with a desktop. you know, those are all the skills that translate really, really well to code.
+
+Ridd (01:06:45.111)
+That's kind of a perfect segue for the next question I wanted to ask you, which is, yeah, for someone that just wants to get started by building a Figma plugin or maybe a portfolio site, like you're still kind of operating in this front end, you know, tailwind kind of world. But man, when you get up to 50,000 lines of code, like you're making real architectural design decisions then, and you're thinking a lot more about data layer, how to organize the project.
+
+and what different services to use. There's a lot to figure out in that bucket. So can you talk to us a little bit about how did you approach that process and what were some of the challenges that you had to overcome along
+
+Meng (01:07:29.15)
+Right. So again, back to the designer who's not very different from an engineer. Have you ever done a design system? That's a massive endeavor. And you have to think about the data layers, the components, the properties, the sort of like all the states and all that stuff. It's super complex. And then you have to think about the variables now because like, you know, Figma has variables and not just variables. You have like these scopes. You have these,
+
+You know, like these dev mode things, and you have to work with developers. That's not much different from how I deal with creating a product that has 50,000 lines of code. The only difference is the tool. So for example, instead of thinking about design system, properties, components, and all that stuff, and architecture, I go to Firebase, and I set up the permissions. I set up the rules. set up like, I
+
+prompt in a way, and I give the context to AI, and then I also organize my files into folders, know, components, you know, there's a naming convention. The same way with Figma, you have a naming conventions for layers, you have naming conventions for components as well. And then you have to separate, you know, you have to turn into hooks, you have to manage your CSS names, you have to manage your imports and all that stuff.
+
+So it's not very different. I think the only problem that it can get hectic, especially for someone who's doing a little bit more backend is it's a little bit more abstract. That's all. But it doesn't mean that you have to get there. It doesn't mean that you're going to get there. So the way that I like to think about development, and I think this is a part that think code can really improve over time, is the amount of abstraction that it has.
+
+which is really scary in fact i proactively abstraction i don't like a stretch my hate attraction because everything that i design has to be shown in real time in front of me the way that i code is exactly the same way that i think ma and i i avoid like the plague back in calls why because
+
+Meng (01:09:52.93)
+Backend needs deployment, needs functions that have to go through median layers. And I try to avoid that. In fact, that's also one thing that happened when I launched DreamCut is I realized, and again, I'm not a super crazy good about security, but I only realized at launch of DreamCut that the API key, when you make a front end call to OpenAI,
+
+was exposed, and I didn't realize. So some people were messaging me. was like, yeah, your API key's exposed. And that's just because of me as a person. First of all, I didn't know. I already store everything in environment variables. If you do environment variables, you know a little bit of coding. This is how you store keys that are meant to be secret. They are meant to be outside of the building to see that. But I didn't realize that when you make an API calling on the front end,
+
+Ridd (01:10:23.093)
+You
+
+Meng (01:10:45.988)
+that it actually expose it when you go into inspector from your browser and you go to network calls, you can literally click on the functions that are running and look at the API keys, which is, you know, it's fun. I went into that little rabbit hole. But yeah, you know, like after launch, I spend the next two, three days working on function equivalents in the backend to, to, avoid that. But that's one part that I wish.
+
+you know coding was less scary and less abstraction but the rest the front end especially as a designer and you can build really really amazing products on the front end by the way and security is something that honestly it is important of course at launch when you're ready to to deal with paying customers and all that stuff but when you're prototyping when you're building a pro like an MVP when you're building something that is meant to be shipped as quickly as possible
+
+You can deal with some of the security, some, not saying all and I'm not saying none, but some of that a little bit later because it's not, you know, it's like sometimes I work with backend engineers and work with engineers. I asked for a simple product or a simple feature and they come up with a nuclear solution, you know, like they come up with these crazy plans and that's just overkill. So that's the flip side of, of,
+
+engineering so I like to strike a good balance of you know working the same way that you Figma yeah I use Figma as a verb
+
+Ridd (01:12:23.42)
+I was gonna call it out. That needs to catch on. I can't believe I haven't used Figma as a verb. And even listening to you talk, I think it's also important to call out the fact that, I mean, not everyone listening is going to just embark on this three month journey to build this incredible product. A fantastic starting spot is what you were describing where it's like, man, I just wish I could do this thing in a Figma prototype, but I can't. Let's use Claude to just whip up a quick prototype and...
+
+Meng (01:12:28.176)
+you
+
+Ridd (01:12:53.222)
+Maybe you have dedicated back engineers. Maybe you're working on a team where it really is more of a front end constrained tool. And even in that world, it's incredibly powerful. And maybe even just to give everyone like kind of the full picture context, you've mentioned Firebase, Cloud, Cursor. Can you just give a quick rundown of like, what are the different tools that you're using and what are they for? And specifically,
+
+Like when you're like, I guess like when are you even in artifacts versus just cursor is one specific question.
+
+Meng (01:13:32.59)
+Sure. So the way that I think about it is that you should start as simple as possible. And that first step should be artifact or v0 or GitHub just announced Spark or there's also bolt.new. So to me, all of these are design tools. And I don't care what people think. I think that these are design tools. I think that this is a new generation of design tools, the design tools that
+
+create a design and turn it to code right away. And it's really powerful because it can be functional. It can prototype. can solve all of these problems that design tools, most of them cannot do right now. Or at least, even if they do, they're to hide the code from you. you're kind of stuck in sort of like a subscription thing. So I think you should start with these design tools. You should start with just ideation.
+
+and just explore what's possible. And as a starting point, you can either go with Figma or you can go with these four tools I just mentioned. Figma to me, if I use these tool is more like a graphic tool in that sense, because you can get really deep with Figma, right? You can build design systems, all that stuff. But why create a design system as a solo designer if you can
+
+do that in code, right? And it's just much, much more efficient in code. Until the day, of course, the design system can be created directly from Figma and generate or synchronize to an actual component that you can import into a code base. That's another story for another day. But right now, if you want to go as deep as design systems and components, just go to your v0 and all that stuff.
+
+So the first step, I said, Figma for graphic design or getting the styling or some of the context of the styling that you want or the logo, the branding, the components that you have built and the UI kits that you have created or that you have downloaded so far. Figma is a good starting point for that. Cloud is a good starting point to see what is possible.
+
+Meng (01:15:56.849)
+and laying out the foundation without the aesthetics, or at least with a very, very generic style. And then chat scene if you're kind of like want to be a little bit more beautiful, but again, not super unique. The same with Bolt. And then when you get past a certain amount of coding lines, so I think the key is like 400 lines of code. When you get past 400 lines of code, it's time to move to
+
+Now, some people might argue that, you can even go a little bit further. It's not optimal, right? It's not optimal because then you have to sort of you know, deal with multiple files and then you have to go back and forth because artifacts right now cannot run like more than, you know, 800 lines of code, I believe. Like otherwise it's going to say continue or some stuff like that. And so you want to fit everything in one prompt and one result prompt as much as possible.
+
+And when you get past that, then it's time to move to cursor. Cursor allows you to essentially not have to deal with these limits. A lot of people who use cloud artifacts, they're going to end up having a lot of limitations because at some point, you know, it says, you know, you have no more, you have no more prompts for the next five hours or something like that. So people get really frustrated about that. So that's time to move to cursor. It's really scary, but
+
+you learn it once, right? You learn it once, just the same way you learn Figma once, and the next time you're good. So you set up cursor. Cursor essentially, you export the file, you can even download the React file, and then you can just install all the stuff like node and stuff like that. That is the scariest part of coding, to be honest.
+
+Because you have to install all of these libraries, you have to start a server, the local environment. But once you're done, then you can essentially bring your code, copy and paste, or download. And then you run your app in a single page. And this is really popular nowadays. It's like having a single page deal with everything and have everything. The single page app or single page landing page, those are really fantastic starting points.
+
+Meng (01:18:23.869)
+And so you go into cursor, you create your single file application, and then you get as far as possible. But eventually you're going to hit maybe a thousand lines of code and that's time to split. So we call that code splitting and that's when you create components. Again, everything I mentioned, yes, there are terms about React, but I couldn't say the same thing about Figma. As soon as you have a hundred layers, it's time to create
+
+Components the same thing with code so as soon as you have a hundred a thousand lines of code you create a components and hooks and You want to reuse it so you have a header or footer so you have to create a component to reuse it the same with like a modal you you know you want to reuse your modal and What else so you have multiple models of AI that you can use so right now I use Claude and Claude is really good, but one thing that I do need to mention is that
+
+Sometimes some of these models can be biased, but also can generate the same answer over and over, which is fine. Which is sometimes it's good to switch to a different model. Sometimes I like to switch to the old one preview or the old one mini just to have a different perspective and to see how it can solve the same problem using different code or different context. And so that's another thing that I do. And, you know, the other thing I would say is that
+
+go directly to Cursor Composer. So Cursor Composer allows you to let AI do the changes of the code for you and create the files for you. So that's a lot less scary. In fact, my son, who's eight years old, was able to use Composer and was able to create apps without touching a single line of code. if someone who's eight years old, who has no knowledge of code, who, of course,
+
+is more like a product designer because he's a monster, by the way. I see him build stuff every day. He used this application called Scratch. Scratch is the equivalent of visual programming for kids. And it's actually created by students at MIT, if I'm not mistaken. essentially, you can drag and drop functions and values. And it creates a programming of a game or of a page or something like that.
+
+Meng (01:20:52.487)
+And he creates like one project a day. It's insane. He's so fast. he has built hundreds of scratch projects over the past year. And you know, that's how he builds that sort of like creative mindset that designer code and mindset that regardless of the tool that you're doing, whether it's code or Figma or scratch, you know what you want and you know how to build it. So
+
+My argument is it's not code per se that scares people. It's that they don't know what they want to build. They don't know the feature. They don't know how to deconstruct the app in a way that makes sense to the prompting and to the AI. But if you practice that over time, if you're a designer who never touched components, of course you're to have a hard, like a hard time working with AI and coding. But if you're a designer who has created design systems, landing pages and
+
+components and variables. I don't believe for a second you're going to have trouble learning code, because it's the same concept. It's the same with my eight years old son who's able to do code by just asking AI to do all the work for him, and he doesn't need to touch any code. So yeah, Cursor Composer is really good for creating and changing the code, creating the files. And you can even
+
+ask Curse Composer to code split for you. It's going to create new files for you. It's going to rearrange. going to even... Yeah, it does a lot of things. I think right now what you need to do if you want to build complex apps like DreamCut, for example, you need to learn how to fill the gap that AI cannot do. So right now, if you look at what AI cannot do is starting a server.
+
+Opening a file like really basic stuff, but basic stuff that you might want to watch a YouTube video or two, or you might want to watch a course just to learn that aspect. And even if you don't build like that, that app that the person is instructing you to build, if you learn how to, to that workflow, right? That starting the server step and get comfortable and do it 10 times instead of one.
+
+Meng (01:23:20.073)
+you should be doing really, well, honestly. honestly, that part I had to help my son, obviously. I think it's very difficult for him to kind of know, start his own server and all that stuff because he's never done code before. But I did have to have to start a server for him. But, you know, once he get that, he's just, he was flying, you know, he was flying from there. I think if you're an engineer who is kind of teaching a designer code or teaching how to create like an app or starting a server,
+
+just teach them that part, sit with them and get going through the motion multiple times, not once, but multiple times so that it kind of like submits memory. And if you do that and you kind of like learn the workflow, understand how to deconstruct a project in a way that makes sense, then yeah, you have your whole suite of tools and eventually.
+
+you know, you get into the backend, you can get into the payments. I use, there's a lot of great tools by the way, right? Like there's a Netlify and Next.js for deployment. You have Firebase for database, but you also have SuperBase. And you have, if you're doing a Python app, you have Heroku. You also have, you know, this is more backend. So you need something like maybe Netlify functions or Next.js backend or
+
+Firebase. So there's, there's a lot of, a lot of tools that you can use for creating your apps. And then the payments you have Stripe, you have lemon squeezes, lemon squeezes super easy. You just need to, to link, to add a link and it goes to another page. Stripe takes a little bit more time, but it's also more efficient in a sense that you have far more options. You have far more control. And in general,
+
+If you want to start doing a subscription and stuff like that, and you know, like you want to get to, you know, a certain level of trust. think customers also have more trust in Stripe in general, because they know people spend more time on the product when they use Stripe. And you can use Stripe checkout, for example, it's much easier than Stripe elements. So there's always level of difficulties and you have to know what you're able to do, right?
+
+Meng (01:25:43.505)
+And authentication, there's a lot of authentication out there. I use Firebase because it has all of these things. I use also storage Firebase for storing all the files in the cloud. use Analytics, so Google Analytics is free. use a whole suite of Firebase. We've done that with design code. I'm used to Firebase. A lot of companies use Firebase. I heard
+
+ARK, the browser use Firebase. there's lot of companies who use Firebase. And what I like about Firebase is also because everyone uses Google Sign-In nowadays. So you might as well just go with it. You will use Google Sign-In at some point. And Google Sign-In is basically the Google Suite. And yeah, I just wanted to use all of that stuff.
+
+Ridd (01:26:13.801)
+wow, I didn't know that.
+
+Ridd (01:26:39.789)
+Well, you kind of read my mind bringing up your son. That was like the little note that I had too. I was just like, you know what, if you're listening to this and it's intimidating, Meng's eight year old kid did it. You probably can too. So, Meng, thanks for coming on. This was just like ridiculously practical. Thanks for pulling back the curtain, showing just how you're thinking about this, all the different prompts that you're doing. Like it was just so much in this. I hope that people listening are inspired to take that first step. It's a beautiful era to be a designer that builds.
+
+Thanks for coming on and talking to us about it
+
+Meng (01:27:12.745)
+Well, first of all, I love that you're creating this kind of podcast and share the stories from creators and especially people that are making apps nowadays using AI. think it's extremely relevant to the market, but not just that. think it's important to demystify a lot of things that are happening right now with AI. And, you know, a lot of people don't use AI. I think they're missing out. I'm sure they have really good reasons, but at the same time,
+
+I think AI is a multiplier, right? Like if you don't use AI, I think you're going to be highly disadvantaged. And what is cool about AI is that everyone can use AI anywhere in the world, any level of education. And it's here to fill the gap. So it starts with writing, it goes with coding, but eventually it's going to get into design and all that stuff. I really look forward to that. I'm really happy that you're covering this kind of topic.
+
+and I love what you're creating. So thank you so much. I'm really honored to be part of this podcast.
+
+Ridd (01:28:16.652)
+Thank you.
+
+Meng (01:28:18.837)
+Thanks.
+
