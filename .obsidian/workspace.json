@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "d89038d2939a8dff",
+    "type": "split",
+    "children": [
+      {
+        "id": "7234d5bd98f81d16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9001b0c57009ad93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "training-data/episodes/episode-16-escha-vera/escha-vera-deliverables.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "escha-vera-deliverables"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "915bdbac4bd6a20f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5dd57959fd2d652",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66e879a6dd99b8ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "097efd4dd0ce1376",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "40f0d5742fbfbe29",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7e9ae4a5fd0141c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "babee8837f5c9e9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad8866a4d7769680",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "training-data/episodes/episode-16-escha-vera/escha-vera-deliverables.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for escha-vera-deliverables"
+            }
+          },
+          {
+            "id": "6288649e39d0e8cd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "training-data/episodes/episode-16-escha-vera/escha-vera-deliverables.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from escha-vera-deliverables"
+            }
+          },
+          {
+            "id": "13b70ffa36e67b3b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fbbb3d9e2be76dd0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "training-data/episodes/episode-16-escha-vera/escha-vera-deliverables.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of escha-vera-deliverables"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9001b0c57009ad93",
+  "lastOpenFiles": [
+    "voice-patterns/ridd-pattern-synthesis-v2.md"
+  ]
+}

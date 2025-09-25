@@ -1,0 +1,603 @@
+{
+  "template_library": {
+    "title_formulas": {
+      "transformation_focused": {
+        "formula": "How to [ACTION VERB] + [TRANSFORMATION OUTCOME] + with [TOOL/METHOD]",
+        "examples": [
+          "How to build your ideas with AI",
+          "How to master design storytelling"
+        ],
+        "variables": {
+          "action_verbs": ["build", "master", "cultivate", "transition", "design"],
+          "transformation_outcomes": ["your ideas", "taste as a designer", "award-winning product", "storytelling"],
+          "tools_methods": ["with AI", "as a designer", "for senior designers"]
+        },
+        "evidence_count": 4,
+        "effectiveness": "high",
+        "usage_notes": "Use sparingly to avoid repetition. Most effective for practical, tutorial-style content."
+      },
+      "future_oriented": {
+        "formula": "[DOMAIN/TOPIC] + era/future + of [INDUSTRY/FIELD]",
+        "examples": [
+          "Entering the 4th era of design tools",
+          "The rise of designers who ship",
+          "Beyond Chat: What's Next for AI Design Patterns"
+        ],
+        "variables": {
+          "domain_topics": ["4th era", "rise of", "future of", "new era"],
+          "industry_fields": ["design tools", "designers who ship", "AI Design Patterns"]
+        },
+        "evidence_count": 3,
+        "effectiveness": "high",
+        "usage_notes": "Creates curiosity about what's coming next. Works best with emerging trends."
+      },
+      "curiosity_gap": {
+        "formula": "[INTRIGUING CONCEPT] + that [TARGET AUDIENCE] + need to [ACTION]",
+        "examples": [
+          "Harsh truths that designers need to hear",
+          "What it takes to design an award-winning product"
+        ],
+        "variables": {
+          "intriguing_concepts": ["harsh truths", "what it takes", "secrets", "tactics"],
+          "target_audiences": ["designers", "senior designers", "founders"],
+          "actions": ["hear", "know", "learn", "understand"]
+        },
+        "evidence_count": 3,
+        "effectiveness": "very_high",
+        "usage_notes": "Most effective format. Creates immediate curiosity while promising specific value."
+      },
+      "keyword_clustering": {
+        "formula": "[KEYWORD 1], [KEYWORD 2], and [KEYWORD 3]",
+        "examples": [
+          "Prototyping, interaction design, and Swift UI"
+        ],
+        "variables": {
+          "technical_keywords": ["prototyping", "interaction design", "SwiftUI", "AI", "design tools"],
+          "process_keywords": ["storytelling", "tactics", "strategies", "methods"]
+        },
+        "evidence_count": 1,
+        "effectiveness": "medium",
+        "usage_notes": "Use when each keyword is compelling individually. Ridd notes success depends on keyword strength."
+      }
+    },
+    "hook_templates": {
+      "bold_statement_opener": {
+        "formula": "One of the [SUPERLATIVE] things I've [EXPERIENCED] is [SPECIFIC EXAMPLE]",
+        "example": "One of the most impressive things I've seen a designer make all year is Meng To's Dreamcut.",
+        "components": {
+          "superlatives": ["most impressive", "best", "most effective", "most successful"],
+          "experiences": ["seen", "encountered", "discovered", "witnessed"],
+          "follow_up": "Explain why it matters + transition to guest introduction"
+        },
+        "evidence_count": 2,
+        "effectiveness": "very_high",
+        "usage_notes": "Creates immediate credibility and intrigue. Must back up claim with substance."
+      },
+      "question_hook": {
+        "formula": "Did you know that [SURPRISING FACT]? + [GUEST INTRODUCTION]",
+        "example": "Did you know that the very first interface designer at Adobe was also the first designer to work on Figma?",
+        "components": {
+          "question_starters": ["Did you know that", "What does it take to", "If you asked me"],
+          "fact_types": ["historical connections", "surprising achievements", "industry secrets"],
+          "follow_up": "Immediately introduce the guest with their credentials"
+        },
+        "evidence_count": 3,
+        "effectiveness": "very_high",
+        "usage_notes": "Ridd's favorite opener. Engages brain immediately and creates curiosity gap."
+      },
+      "personal_betting": {
+        "formula": "I'm willing to bet that [RELATABLE ASSUMPTION] + [GUEST AUTHORITY ESTABLISHMENT]",
+        "example": "I'm willing to bet that you have been on Smashing Magazine at some point in the last 18 years...",
+        "components": {
+          "relatable_assumptions": ["you've used X", "you've experienced Y", "you've heard of Z"],
+          "authority_builders": ["leading thinker", "founder of", "has been doing X for Y years"],
+          "transition": "Connect assumption to guest's expertise"
+        },
+        "evidence_count": 1,
+        "effectiveness": "high",
+        "usage_notes": "Creates relatability before establishing authority. Works well for established industry figures."
+      },
+      "irreverent_casual": {
+        "formula": "[CASUAL QUESTION/STATEMENT] + emotional punctuation + [CONTEXT SETTING]",
+        "example": "wtf is a prototype now?? we've made incremental progress for a decade+ and then everything changed overnight",
+        "components": {
+          "casual_language": ["wtf", "honestly", "let's be real"],
+          "emotional_punctuation": ["??", "!!", "😳"],
+          "context_setters": ["everything changed", "the landscape shifted", "we're at an inflection point"]
+        },
+        "evidence_count": 1,
+        "effectiveness": "high",
+        "usage_notes": "Use sparingly. Works well for disruptive/transformative topics. Ridd notes it 'performed quite well.'"
+      }
+    },
+    "description_frameworks": {
+      "story_teaser": {
+        "structure": "Behind-the-scenes of [SPECIFIC FEATURE/STORY]",
+        "examples": [
+          "Behind-the-scenes of their viral 'quick add' feature",
+          "The bizarre story of Andrei's first day at Adobe"
+        ],
+        "effectiveness": "high",
+        "usage_notes": "Creates feeling that 'there's a story there'"
+      },
+      "numbered_insights": {
+        "structure": "The [NUMBER] [CATEGORY] that [CONTEXT]",
+        "examples": [
+          "The 3 types of designers that will exist in the future",
+          "The #1 trait of designers he's worked with over the last 3 decades"
+        ],
+        "effectiveness": "very_high",
+        "usage_notes": "Makes people wonder what's on the list. Always effective according to Ridd."
+      },
+      "contrarian_take": {
+        "structure": "Why [POPULAR BELIEF] should be [OPPOSITE/ALTERNATIVE]",
+        "examples": [
+          "Why more products should be 'AI-second' not 'AI-first'",
+          "Why Duolingo changed from 'UX' to 'Product Experience'"
+        ],
+        "effectiveness": "high",
+        "usage_notes": "Hints at 'spicy takes' without being clickbait"
+      },
+      "practical_specificity": {
+        "structure": "How to [SPECIFIC SKILL/TECHNIQUE] + practical modifier",
+        "examples": [
+          "How to fine-tune visual details in code",
+          "How to design physics-based interactions"
+        ],
+        "modifiers": ["highly practical", "tactical", "specific", "actionable"],
+        "effectiveness": "very_high",
+        "usage_notes": "Emphasizes tactical over fluffy content"
+      }
+    },
+    "newsletter_subject_generators": {
+      "ambiguous_callback": {
+        "formula": "[UNIQUE PHRASE FROM TAKEAWAY]",
+        "examples": [
+          "red herring",
+          "phase 4",
+          "washi or doodle?"
+        ],
+        "process": "Extract quirky/unique phrase from episode content that creates delayed understanding",
+        "effectiveness": "very_high",
+        "usage_notes": "Ridd's favorite approach. Makes people 'scratch their head' wondering what it refers to."
+      },
+      "unexpected_phrase": {
+        "formula": "[CONTRASTING CONCEPTS] + descriptive phrase",
+        "examples": [
+          "slow is smooth, smooth is fast",
+          "expert mode"
+        ],
+        "effectiveness": "high",
+        "usage_notes": "Should stand out from every other email subject line"
+      },
+      "simple_concept": {
+        "formula": "[CORE TOPIC/THEME]",
+        "examples": [
+          "harsh truths",
+          "practicing taste"
+        ],
+        "effectiveness": "medium",
+        "usage_notes": "Use when topic itself is compelling. Avoid being too obvious about content."
+      }
+    },
+    "takeaway_structures": {
+      "numbered_emoji": {
+        "title_format": "[NUMBER_EMOJI] — [ACTIONABLE PRINCIPLE]",
+        "examples": [
+          "1️⃣ — Coding was a red herring",
+          "2 — Getting feedback uncomfortably fast"
+        ],
+        "content_structure": [
+          "Opening context/problem statement",
+          "Guest's insight or contrarian view",
+          "Direct quote from guest",
+          "Practical implications",
+          "Personal commentary/connection"
+        ],
+        "voice_integration": "Include personal stance, quotes, and practical application"
+      },
+      "counterintuitive_reveal": {
+        "opening_pattern": "There used to be [COMMON BELIEF]... But it turns out [CONTRARIAN TRUTH]",
+        "example": "There used to be a holy war over whether or not designers should spend time and energy learning how to code. But it turns out coding was a little bit of a red herring.",
+        "effectiveness": "very_high",
+        "usage_notes": "Always winning formula when you can say something counterintuitive"
+      }
+    }
+  },
+  "voice_reference_manual": {
+    "signature_phrases": {
+      "primary_signature": {
+        "phrase": "a *lot* more",
+        "usage": "End of highlight/description lists",
+        "frequency": 7,
+        "function": "Maintains conversational casualness while indicating more content",
+        "formatting": "Always italicized with asterisks",
+        "mandatory": true
+      },
+      "conversational_connectors": {
+        "and_so": {
+          "phrase": "And so",
+          "frequency": 4,
+          "function": "Natural transition that mimics spoken conversation"
+        },
+        "and_thats": {
+          "phrase": "And that's",
+          "frequency": 2,
+          "function": "Conclusive connector that feels authentically conversational"
+        },
+        "but_it_turns_out": {
+          "phrase": "But it turns out",
+          "frequency": 1,
+          "function": "Introduces contrarian or surprising information"
+        },
+        "the_fact_is": {
+          "phrase": "The fact is",
+          "frequency": 1,
+          "function": "Emphasizes reality/truth in discussion"
+        }
+      }
+    },
+    "sentence_structure_preferences": {
+      "parenthetical_asides": {
+        "purpose": "Adds conversational texture and personal commentary",
+        "examples": [
+          "(read: lots of screen-sharing 👀)",
+          "(remember, Joel ?)",
+          "(and a design director at Instagram before that)"
+        ],
+        "frequency": "Every episode",
+        "function": "Creates feeling of insider conversation"
+      },
+      "contractions_usage": {
+        "mandate": "Always use contractions",
+        "examples": ["we're", "it's", "there's", "you're"],
+        "function": "Maintains spoken feel throughout content"
+      },
+      "informal_intensifiers": {
+        "preferred_words": ["pretty", "quite", "really", "super"],
+        "examples": [
+          "pretty cringe",
+          "quite nice",
+          "really effective",
+          "super practical"
+        ],
+        "function": "Casual language that avoids corporate speak"
+      },
+      "conversational_fillers": {
+        "phrases": ["And again", "Now the thing is", "But here's the thing though"],
+        "function": "Mimics natural speech patterns",
+        "usage": "Sparingly, for authenticity"
+      }
+    },
+    "personal_voice_implementation": {
+      "first_person_editorial": {
+        "patterns": [
+          "I'm willing to bet",
+          "I interviewed",
+          "I've studied his visual techniques"
+        ],
+        "function": "Establishes personal investment and credibility"
+      },
+      "personal_endorsements": {
+        "examples": [
+          "has quickly become the go-to way I build my ideas",
+          "one of the first people I'd mention"
+        ],
+        "function": "Adds weight through personal experience"
+      },
+      "uncertainty_admissions": {
+        "examples": [
+          "I don't want to overuse",
+          "it's pretty cringe"
+        ],
+        "function": "Shows self-awareness and authenticity"
+      },
+      "direct_reader_address": {
+        "mandate": "Consistent use of 'you' throughout content",
+        "function": "Creates conversational intimacy"
+      }
+    },
+    "authority_building_techniques": {
+      "concrete_specificity": {
+        "preference": "Concrete examples over generalizations",
+        "examples": [
+          "50,000+ lines of code",
+          "20+ years",
+          "18 years"
+        ],
+        "function": "Builds credibility through precision"
+      },
+      "name_dropping_with_context": {
+        "pattern": "Company/person + brief context",
+        "examples": [
+          "Figma, Framer, Vercel, etc.",
+          "Google, Square, Dropbox, etc."
+        ],
+        "function": "Establishes credibility without being name-droppy"
+      },
+      "process_transparency": {
+        "approach": "Show thinking behind title choices and content decisions",
+        "examples": "Brain dump sections revealing editorial reasoning",
+        "function": "Builds trust through transparency"
+      },
+      "guest_validation": {
+        "patterns": [
+          "perfect person to onboard you",
+          "one of the leading thinkers"
+        ],
+        "function": "Transfers credibility to content"
+      },
+      "achievement_highlighting": {
+        "examples": [
+          "Mac app of the year",
+          "fastest growing startup in European history"
+        ],
+        "function": "Concrete proof of expertise"
+      }
+    },
+    "curiosity_generation_methods": {
+      "curiosity_gaps": {
+        "technique": "Hint at valuable information without revealing it",
+        "examples": [
+          "what are those harsh truths?",
+          "Beyond Chat" - creates curiosity about what's there
+        ],
+        "function": "Drives engagement through incomplete information"
+      },
+      "list_teases": {
+        "pattern": "Reference numbered insights without revealing them",
+        "examples": [
+          "The three types of designers",
+          "The #1 trait"
+        ],
+        "effectiveness": "Always works - people want to know what's on the list"
+      },
+      "story_hints": {
+        "technique": "Reference interesting stories without telling them",
+        "examples": [
+          "The bizarre story of Andrei's first day at Adobe",
+          "behind the scenes of their viral quick add feature"
+        ],
+        "function": "Creates feeling that there's a story to discover"
+      },
+      "future_relevance": {
+        "approach": "Frame content as timely and forward-looking",
+        "examples": [
+          "where software creation is headed next",
+          "why we won't use smartphones the same way 5 years from now"
+        ],
+        "function": "Makes people feel content is happening right now"
+      }
+    }
+  },
+  "quality_control_standards": {
+    "voice_authenticity_markers": {
+      "required_elements": [
+        "Conversational parentheticals in every piece",
+        "Personal editorial stance with first-person perspectives",
+        "Specific examples over generic statements",
+        "Balance of aspiration and practical value",
+        "Signature phrase 'a *lot* more' for highlight endings"
+      ],
+      "calibration_guidelines": {
+        "confidence_without_arrogance": "Editorial opinions backed by reasoning",
+        "casual_but_not_sloppy": "Conversational tone with precise word choices",
+        "enthusiastic_but_not_hyperbolic": "Genuine excitement without clickbait language",
+        "personal_but_professional": "Share thinking process without oversharing"
+      }
+    },
+    "editorial_quality_thresholds": {
+      "title_standards": {
+        "avoid": [
+          "Generic newsletter titles ('the newest design tool')",
+          "Overly obvious content indicators",
+          "Hyperbolic statements ('Why UX design is dead')",
+          "Weak keywords without substance"
+        ],
+        "require": [
+          "Curiosity gap creation",
+          "Practical implications",
+          "Future-oriented language when relevant",
+          "Transformation messaging for growth-focused audience"
+        ]
+      },
+      "hook_quality_markers": {
+        "effective_hooks_must": [
+          "Avoid boring factual openings",
+          "Create immediate engagement (questions work best)",
+          "Include bold statements with weight",
+          "Establish guest credibility",
+          "Include personal elements"
+        ],
+        "hook_failures_to_avoid": [
+          "Stating facts without grip",
+          "Boring descriptions without attention grabbers",
+          "Missing personal investment"
+        ]
+      },
+      "description_standards": {
+        "essential_elements": [
+          "Practical specificity ('highly practical breakdown')",
+          "Curiosity-inducing details",
+          "Story hints that feel like narratives exist",
+          "Contradictory takes or insights",
+          "List teases that make people wonder"
+        ],
+        "quality_requirements": [
+          "Middle ground between bland and clickbait",
+          "Avoid 'cringe territory'",
+          "Nothing generic or fluffy",
+          "Specific and tactical focus"
+        ]
+      }
+    },
+    "distinctiveness_requirements": {
+      "anti_patterns_to_avoid": {
+        "hyperbolic_language": [
+          "Too click-baity titles",
+          "Over-the-top promises",
+          "Secret weapon in titles (save for descriptions)"
+        ],
+        "weak_content": [
+          "Boring fact-stating without engagement",
+          "Generic highlights without specificity",
+          "Overused formulas that become redundant"
+        ],
+        "corporate_speak": [
+          "Bland, expected language",
+          "Surface-level observations",
+          "Generic industry jargon"
+        ]
+      },
+      "uniqueness_markers": {
+        "personal_transparency": "Show editorial thinking and admit mistakes",
+        "learning_orientation": "Position content as depth over surface",
+        "quality_consciousness": "Maintain aspirational standards",
+        "audience_respect": "Make people feel smart for engaging",
+        "substance_over_surface": "Focus on learning depth not engagement metrics"
+      }
+    }
+  },
+  "json_reference_structures": {
+    "signature_phrases_array": [
+      {
+        "phrase": "a *lot* more",
+        "frequency": 7,
+        "usage": "highlight_endings",
+        "mandatory": true,
+        "formatting": "asterisk_italics"
+      },
+      {
+        "phrase": "And so",
+        "frequency": 4,
+        "usage": "conversational_transitions",
+        "mandatory": false,
+        "function": "spoken_mimicry"
+      },
+      {
+        "phrase": "And that's",
+        "frequency": 2,
+        "usage": "conclusive_connectors",
+        "mandatory": false,
+        "function": "conversational_authenticity"
+      }
+    ],
+    "sentence_patterns_object": {
+      "parenthetical_asides": {
+        "frequency": "every_episode",
+        "patterns": [
+          "(read: [CLARIFICATION])",
+          "(remember, [NAME]?)",
+          "([ADDITIONAL_CONTEXT])"
+        ],
+        "function": "conversational_texture"
+      },
+      "question_openings": {
+        "frequency": "6_of_11_episodes",
+        "patterns": [
+          "Did you know that...",
+          "What does it take to...",
+          "If you asked me..."
+        ],
+        "effectiveness": "very_high"
+      },
+      "bold_statements": {
+        "patterns": [
+          "One of the most [SUPERLATIVE] things I've [VERB]",
+          "I'm willing to bet that [ASSUMPTION]"
+        ],
+        "requirement": "Must carry weight and be backed by substance"
+      }
+    },
+    "quality_markers_lists": [
+      {
+        "category": "voice_authenticity",
+        "markers": [
+          "conversational_parentheticals",
+          "personal_editorial_stance",
+          "specific_over_generic",
+          "aspiration_plus_practical",
+          "signature_phrase_usage"
+        ]
+      },
+      {
+        "category": "content_quality",
+        "markers": [
+          "curiosity_gap_creation",
+          "practical_specificity",
+          "story_hints_present",
+          "contradictory_insights",
+          "future_relevance"
+        ]
+      },
+      {
+        "category": "editorial_standards",
+        "markers": [
+          "avoids_hyperbolic_language",
+          "includes_personal_investment",
+          "shows_process_transparency",
+          "maintains_audience_respect",
+          "substance_over_surface"
+        ]
+      }
+    ]
+  },
+  "evidence_validation": {
+    "pattern_sources": {
+      "signature_phrases": {
+        "a_lot_more": "Appears in 7 of 11 episodes analyzed",
+        "and_so": "Appears in 4 of 11 episodes analyzed",
+        "conversational_connectors": "Present in every episode"
+      },
+      "structural_formulas": {
+        "question_hooks": "Used in 6 of 11 episodes",
+        "how_to_titles": "Appears in 4 of 11 main titles",
+        "parenthetical_asides": "Present in every episode"
+      },
+      "editorial_preferences": {
+        "brain_dump_insights": "Direct quotes from 11 brain dump reflections",
+        "quality_standards": "Self-criticism patterns across all episodes",
+        "audience_psychology": "Explicit statements about audience motivations"
+      }
+    },
+    "confidence_levels": {
+      "high_confidence": [
+        "signature_phrases",
+        "question_hook_effectiveness",
+        "parenthetical_usage",
+        "practical_specificity_preference"
+      ],
+      "medium_confidence": [
+        "newsletter_subject_strategies",
+        "takeaway_structure_patterns",
+        "future_oriented_titles"
+      ],
+      "requires_validation": [
+        "keyword_clustering_effectiveness",
+        "optimal_hook_length",
+        "emoji_usage_guidelines"
+      ]
+    }
+  },
+  "implementation_notes": {
+    "critical_success_factors": [
+      "Must maintain balance between editorial authority and conversational accessibility",
+      "Every piece should pass the 'will this help designers grow?' filter",
+      "Avoid chasing engagement metrics at expense of educational value",
+      "Preserve transparency about editorial process and quality standards"
+    ],
+    "usage_priorities": [
+      "1. Always include signature phrase 'a *lot* more' in highlight lists",
+      "2. Use question hooks when possible for maximum engagement", 
+      "3. Include parenthetical asides for conversational authenticity",
+      "4. Maintain specific examples over generic statements",
+      "5. Create curiosity gaps without being misleading"
+    ],
+    "adaptation_guidelines": [
+      "Templates are starting points - adapt based on specific content and guest",
+      "Voice elements should feel natural, not forced",
+      "Quality standards are non-negotiable even when using templates",
+      "Personal investment and editorial perspective must be authentic"
+    ]
+  }
+}
