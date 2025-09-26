@@ -2,7 +2,7 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-**First Action:** Always read `instructions.md` in addition to this document to understand the complete workflow when processing new raw transcripts and the process it goes through.
+**First Action:** Always read `system/instructions.md` in addition to this document to understand the complete workflow when processing new raw transcripts and the process it goes through.
 
 ## Project Overview
 Content analysis system for Ridd's voice pattern identification using 11 podcast episodes. The project extracts voice characteristics from newsletter deliverables and brain dumps to create authentic content matching templates.
@@ -10,9 +10,9 @@ Content analysis system for Ridd's voice pattern identification using 11 podcast
 ## Key Commands
 
 ### Data Processing
-- `python3 scripts/extract_patterns.py` - Extract voice patterns from episode deliverables to JSON
-- `python3 scripts/run_voice_analysis.py` - Full pipeline orchestration (extraction + agent prep)
-- `python3 scripts/run_voice_analysis_with_agents.py` - Agent-based analysis workflow
+- `python3 system/scripts/extract_patterns.py` - Extract voice patterns from episode deliverables to JSON
+- `python3 system/scripts/run_voice_analysis.py` - Full pipeline orchestration (extraction + agent prep)
+- `python3 system/scripts/run_voice_analysis_with_agents.py` - Agent-based analysis workflow
 
 ### File Operations
 No build/lint/test commands - this is a data processing and analysis project.
@@ -20,15 +20,15 @@ No build/lint/test commands - this is a data processing and analysis project.
 ## Architecture
 
 ### Data Flow
-1. **Raw Data**: `/episode-deliverables/` contains 11 markdown files with titles, hooks, highlights, takeaways, and Ridd's editorial brain dumps
+1. **Raw Data**: `content-archive/episodes/` contains episode folders with transcripts, deliverables, and brain dumps
 2. **Pattern Extraction**: Python scripts parse markdown files into structured JSON patterns
 3. **AI Analysis**: Specialized agents analyze patterns for voice characteristics, editorial preferences, and synthesis templates
-4. **Output**: Voice matching templates and reference guides in `/voice-patterns/`
+4. **Output**: Voice matching templates and reference guides in `system/voice-patterns/`
 
 ### Key Components
-- **VoicePatternExtractor** (`scripts/extract_patterns.py`): Main data parser that converts 11 markdown deliverables into structured pattern data
-- **Specialized Agents** (`.claude/agents/`): Voice analyst, editorial analyst, pattern synthesizer, and QA reviewer for deep analysis
-- **Reference System** (`voice-patterns/pattern-reference-guide.md`): Actionable templates for voice replication
+- **VoicePatternExtractor** (`system/scripts/extract_patterns.py`): Main data parser that converts episode deliverables into structured pattern data
+- **Specialized Agents** (`system/.claude/agents/`): Voice analyst, editorial analyst, pattern synthesizer, and QA reviewer for deep analysis
+- **Reference System** (`system/voice-patterns/pattern-reference-guide.md`): Actionable templates for voice replication
 
 ### Agent System
 The project uses 5 specialized AI agents:
@@ -39,11 +39,12 @@ The project uses 5 specialized AI agents:
 - `qa-voice-pattern-reviewer`: Validates analysis quality and evidence
 
 ### Data Structure
-- `/episode-deliverables/`: Final newsletter content + Ridd's reflective commentary
-- `/voice-patterns/`: AI-generated analysis files (v2 files are primary)
-- `/extracted_data/`: JSON output from pattern extraction
-- `/scripts/`: Python data processing utilities
-- `/agents/`: Local copies of agent definitions
+- `content-archive/episodes/`: Episode-organized transcripts, deliverables, and brain dumps
+- `content-archive/feedback/`: Ridd's feedback files and test deliverables
+- `system/voice-patterns/`: AI-generated analysis files (v2 files are primary)
+- `system/extracted_data/`: JSON output from pattern extraction
+- `system/scripts/`: Python data processing utilities
+- `system/agents/`: Local copies of agent definitions
 
 ## Working with Voice Patterns
 - Brain dump sections are gold standard - they contain Ridd's unfiltered editorial thinking
